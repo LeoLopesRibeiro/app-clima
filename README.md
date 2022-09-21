@@ -5,7 +5,7 @@ No diretório do projeto, você pode executar:
 ### `npm install`
 Vai instalar todas as dependências que foram utilizadas no app
 
-npm start
+### `npm start`
 Executa o aplicativo no modo de desenvolvimento.
 pressione a tecla "w" para abri-lo no navegador
 
