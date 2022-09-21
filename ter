@@ -22,5 +22,5 @@ core.symlinks=false
 core.ignorecase=true
 remote.origin.url=https://github.com/LeoLopesRibeiro/app-clima.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.master.remote=origin
+branch.main.remote=origin
 branch.master.merge=refs/heads/master
