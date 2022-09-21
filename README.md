@@ -2,7 +2,7 @@
 aplicativo de clima utlizando a api: https://www.weatherapi.com/
 No diretório do projeto, você pode executar:
 
-npm install
+### `npm install`
 Vai instalar todas as dependências que foram utilizadas no app
 
 npm start
